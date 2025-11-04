@@ -1,9 +1,6 @@
 
 import { Alert, AlertStatus } from './types';
 
-
-// added comments to test git settings
-
 export const ALERTS: Alert[] = [
   {
     id: 'pune-road-001',
